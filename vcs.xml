@@ -1,9 +1,6 @@
 <application>
   <component name="VcsApplicationSettings">
-    <option name="PATCH_STORAGE_LOCATION" value="D:/paintyourlife/vagrant_data/testpaint/my_patch" />
+    <option name="PATCH_STORAGE_LOCATION" value="D:/Tan.Nguyen/PYL/vagrant_data/testpaint/my_patch" />
     <option name="COMMIT_FROM_LOCAL_CHANGES" value="true" />
-  </component>
-  <component name="VcsEditorTab.Settings">
-    <option name="openInNewWindow" value="true" />
   </component>
 </application>
