@@ -3,13 +3,15 @@
     <property name="created">2021-11-01T13:54:05</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2021.2.2.0.0</property>
-    <property name="modified">2021-11-01T17:29:08</property>
+    <property name="modified">2021-11-25T10:02:25</property>
     <property name="originalScheme">IntelliJ Light</property>
   </metaInfo>
   <colors>
+    <option name="ADDED_LINES_COLOR" value="4d9c2f" />
     <option name="CARET_ROW_COLOR" value="fcfaed" />
     <option name="GUTTER_BACKGROUND" value="f2f2f2" />
     <option name="LINE_NUMBERS_COLOR" value="adadad" />
+    <option name="MODIFIED_LINES_COLOR" value="3097ff" />
     <option name="SELECTION_BACKGROUND" value="a6d2ff" />
     <option name="SELECTION_FOREGROUND" value="" />
     <option name="TEARLINE_COLOR" value="d4d4d4" />
