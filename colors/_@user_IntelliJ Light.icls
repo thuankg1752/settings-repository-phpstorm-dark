@@ -3,7 +3,7 @@
     <property name="created">2021-11-01T13:54:05</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2021.2.2.0.0</property>
-    <property name="modified">2021-12-01T11:10:03</property>
+    <property name="modified">2021-12-02T14:39:48</property>
     <property name="originalScheme">IntelliJ Light</property>
   </metaInfo>
   <colors>
@@ -155,9 +155,15 @@
         <option name="FOREGROUND" value="37a6" />
       </value>
     </option>
+    <option name="DIFF_INSERTED">
+      <value>
+        <option name="BACKGROUND" value="bee3be" />
+        <option name="ERROR_STRIPE_COLOR" value="aadeaa" />
+      </value>
+    </option>
     <option name="DIFF_MODIFIED">
       <value>
-        <option name="BACKGROUND" value="c2d8f2" />
+        <option name="BACKGROUND" value="9ec4ff" />
         <option name="ERROR_STRIPE_COLOR" value="b6d2f2" />
       </value>
     </option>
