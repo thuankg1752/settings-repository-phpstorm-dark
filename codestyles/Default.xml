@@ -5,6 +5,7 @@
     <option name="LOWER_CASE_NULL_CONST" value="true" />
     <option name="SPACE_AFTER_COLON_IN_RETURN_TYPE" value="false" />
     <option name="SPACE_AFTER_COLON_IN_NAMED_ARGUMENT" value="false" />
+    <option name="FORCE_EMPTY_METHODS_IN_ONE_LINE" value="true" />
   </PHPCodeStyleSettings>
   <codeStyleSettings language="PHP">
     <option name="KEEP_LINE_BREAKS" value="false" />
