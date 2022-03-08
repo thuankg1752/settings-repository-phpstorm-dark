@@ -1,18 +1,1 @@
-<code_scheme name="Default" version="173">
-  <PHPCodeStyleSettings>
-    <option name="GROUP_USE_WRAP" value="0" />
-    <option name="LOWER_CASE_BOOLEAN_CONST" value="true" />
-    <option name="LOWER_CASE_NULL_CONST" value="true" />
-    <option name="SPACE_AFTER_COLON_IN_RETURN_TYPE" value="false" />
-    <option name="SPACE_AFTER_COLON_IN_NAMED_ARGUMENT" value="false" />
-    <option name="FORCE_EMPTY_METHODS_IN_ONE_LINE" value="true" />
-  </PHPCodeStyleSettings>
-  <codeStyleSettings language="PHP">
-    <option name="KEEP_LINE_BREAKS" value="false" />
-    <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
-    <option name="CLASS_BRACE_STYLE" value="1" />
-    <option name="METHOD_BRACE_STYLE" value="1" />
-    <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />
-    <option name="KEEP_SIMPLE_CLASSES_IN_ONE_LINE" value="true" />
-  </codeStyleSettings>
-</code_scheme>
+<code_scheme name="Default" version="173" />
