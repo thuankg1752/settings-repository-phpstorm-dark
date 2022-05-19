@@ -1,7 +1,3 @@
 <application>
-  <component name="LocalDatabaseDriverManager" version="201">
-    <driver id="mariadb">
-      <artifact id="MariaDB Connector J" name="MariaDB Connector J" use="true" version="2.7.3" />
-    </driver>
-  </component>
+  <component name="LocalDatabaseDriverManager" version="201" />
 </application>
