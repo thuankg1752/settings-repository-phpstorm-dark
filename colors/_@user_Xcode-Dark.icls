@@ -4,7 +4,7 @@
     <property name="created">2021-07-20T22:14:04</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2021.1.4.0.0</property>
-    <property name="modified">2022-05-20T01:44:45</property>
+    <property name="modified">2022-05-20T11:59:35</property>
     <property name="originalScheme">Xcode-Dark</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Consolas" />
@@ -674,6 +674,11 @@
       <value>
         <option name="FOREGROUND" value="9cdcfe" />
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="PHP_SCRIPTING_BACKGROUND">
+      <value>
+        <option name="BACKGROUND" value="1e1e1e" />
       </value>
     </option>
     <option name="PHP_STATIC_METHOD">
