@@ -4,7 +4,7 @@
     <property name="created">2021-07-20T22:14:04</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2021.1.4.0.0</property>
-    <property name="modified">2022-05-20T11:59:35</property>
+    <property name="modified">2022-05-20T13:45:24</property>
     <property name="originalScheme">Xcode-Dark</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Consolas" />
@@ -150,6 +150,11 @@
       <value>
         <option name="FOREGROUND" value="0" />
         <option name="BACKGROUND" value="ffffff" />
+      </value>
+    </option>
+    <option name="CSS.BRACES">
+      <value>
+        <option name="FOREGROUND" value="f0d107" />
       </value>
     </option>
     <option name="CSS.FUNCTION">
