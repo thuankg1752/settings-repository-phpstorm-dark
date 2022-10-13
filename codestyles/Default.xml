@@ -1,4 +1,7 @@
 <code_scheme name="Default" version="173">
+  <HTMLCodeStyleSettings>
+    <option name="HTML_ATTRIBUTE_WRAP" value="0" />
+  </HTMLCodeStyleSettings>
   <PHPCodeStyleSettings>
     <option name="GROUP_USE_WRAP" value="0" />
     <option name="LOWER_CASE_BOOLEAN_CONST" value="true" />
