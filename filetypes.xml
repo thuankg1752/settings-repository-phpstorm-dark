@@ -5,6 +5,7 @@
       <removed_mapping ext="bash" approved="true" type="Shell Script" />
       <removed_mapping ext="sh" approved="true" type="Shell Script" />
       <removed_mapping ext="zsh" approved="true" type="Shell Script" />
+      <removed_mapping pattern=".env" approved="true" type=".env file" />
     </extensionMap>
   </component>
 </application>
