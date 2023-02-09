@@ -1,0 +1,11 @@
+<application>
+  <component name="CodeGlance Pro">
+    <option name="clean" value="false" />
+    <option name="disabled" value="true" />
+    <option name="locked" value="true" />
+    <option name="mouseWheelMoveEditorToolTip" value="true" />
+    <option name="pixelsPerLine" value="2" />
+    <option name="showFullLineHighlight" value="false" />
+    <option name="width" value="60" />
+  </component>
+</application>
