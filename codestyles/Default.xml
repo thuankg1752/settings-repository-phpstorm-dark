@@ -3,20 +3,42 @@
     <option name="HTML_ATTRIBUTE_WRAP" value="0" />
   </HTMLCodeStyleSettings>
   <PHPCodeStyleSettings>
+    <option name="PHPDOC_BLANK_LINE_BEFORE_TAGS" value="true" />
+    <option name="PHPDOC_BLANK_LINES_AROUND_PARAMETERS" value="true" />
+    <option name="ANONYMOUS_BRACE_STYLE" value="2" />
     <option name="GROUP_USE_WRAP" value="0" />
     <option name="LOWER_CASE_BOOLEAN_CONST" value="true" />
     <option name="LOWER_CASE_NULL_CONST" value="true" />
-    <option name="SPACE_AFTER_COLON_IN_RETURN_TYPE" value="false" />
+    <option name="ELSE_IF_STYLE" value="COMBINE" />
+    <option name="SPACE_AROUND_ASSIGNMENT_IN_DECLARE" value="true" />
     <option name="SPACE_AFTER_COLON_IN_NAMED_ARGUMENT" value="false" />
+    <option name="SPACES_AROUND_PIPE_IN_UNION_TYPE" value="true" />
     <option name="FORCE_EMPTY_METHODS_IN_ONE_LINE" value="true" />
+    <option name="NAMESPACE_BRACE_STYLE" value="2" />
   </PHPCodeStyleSettings>
+  <codeStyleSettings language="LESS">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="4" />
+    </indentOptions>
+  </codeStyleSettings>
   <codeStyleSettings language="PHP">
     <option name="KEEP_LINE_BREAKS" value="false" />
     <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
-    <option name="CLASS_BRACE_STYLE" value="1" />
-    <option name="METHOD_BRACE_STYLE" value="1" />
-    <option name="SPACE_BEFORE_FOR_PARENTHESES" value="false" />
+    <option name="SPACE_AFTER_TYPE_CAST" value="true" />
     <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />
     <option name="KEEP_SIMPLE_CLASSES_IN_ONE_LINE" value="true" />
+    <option name="ARRAY_INITIALIZER_WRAP" value="2" />
+    <option name="ARRAY_INITIALIZER_LBRACE_ON_NEXT_LINE" value="true" />
+    <option name="ARRAY_INITIALIZER_RBRACE_ON_NEXT_LINE" value="true" />
+  </codeStyleSettings>
+  <codeStyleSettings language="SASS">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="4" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="SCSS">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="4" />
+    </indentOptions>
   </codeStyleSettings>
 </code_scheme>
