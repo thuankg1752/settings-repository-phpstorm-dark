@@ -4,7 +4,7 @@
     <property name="created">2021-07-20T22:14:04</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2021.1.4.0.0</property>
-    <property name="modified">2022-08-17T07:12:16</property>
+    <property name="modified">2023-03-26T17:40:22</property>
     <property name="originalScheme">Xcode-Dark</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Consolas" />
@@ -354,6 +354,12 @@
       <value>
         <option name="BACKGROUND" value="345a32" />
         <option name="ERROR_STRIPE_COLOR" value="447152" />
+      </value>
+    </option>
+    <option name="DOCKER_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="4aff00" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="ERRORS_ATTRIBUTES">
