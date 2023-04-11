@@ -24,5 +24,17 @@
       <JAVADOC />
       <SOURCES />
     </library>
+    <library name="yubinbango" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__yubinbango.github.io_yubinbango_yubinbango.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__yubinbango.github.io_yubinbango_yubinbango.js" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
   </component>
 </application>
