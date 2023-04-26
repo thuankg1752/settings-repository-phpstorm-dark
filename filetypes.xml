@@ -5,11 +5,11 @@
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="bk" type="PLAIN_TEXT" />
       <mapping ext="sh" type="PLAIN_TEXT" />
+      <mapping ext="plantuml" type="PlantUML file" />
       <removed_mapping ext="bash" approved="true" type="Shell Script" />
       <removed_mapping ext="sh" approved="true" type="Shell Script" />
       <removed_mapping ext="zsh" approved="true" type="Shell Script" />
       <removed_mapping pattern=".env" approved="true" type=".env file" />
-      <mapping ext="plantuml" type="PlantUML file" />
     </extensionMap>
   </component>
 </application>
