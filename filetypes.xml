@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping ext="puml" type="AUTO_DETECTED" />
+      <mapping ext="ogg" type="AUTO_DETECTED" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="bk" type="PLAIN_TEXT" />
