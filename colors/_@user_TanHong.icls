@@ -4,7 +4,7 @@
     <property name="created">2023-05-09T22:58:28</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2023.1.1.0.0</property>
-    <property name="modified">2023-05-09T22:58:43</property>
+    <property name="modified">2023-05-11T10:37:04</property>
     <property name="originalScheme">_@user_Xcode-Dark</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Consolas" />
@@ -814,5 +814,19 @@
       </value>
     </option>
     <option name="XML_TAG_NAME" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="YAML_SCALAR_LIST">
+      <value>
+        <option name="FOREGROUND" value="4aff00" />
+        <option name="BACKGROUND" value="1a1a1a" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="YAML_SCALAR_VALUE">
+      <value>
+        <option name="FOREGROUND" value="4bd50d" />
+        <option name="BACKGROUND" value="1a1a1a" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
   </attributes>
 </scheme>
