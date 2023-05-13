@@ -9,10 +9,10 @@
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="plantuml" type="PlantUML file" />
       <mapping ext="puml" type="PlantUML file" />
-      <removed_mapping ext="bash" approved="true" type="Shell Script" />
+      <mapping ext="zsh" type="Shell Script" />
+      <mapping ext="sh" type="Shell Script" />
+      <mapping ext="bash" type="Shell Script" />
       <removed_mapping ext="puml" approved="true" type="AUTO_DETECTED" />
-      <removed_mapping ext="sh" approved="true" type="Shell Script" />
-      <removed_mapping ext="zsh" approved="true" type="Shell Script" />
     </extensionMap>
   </component>
 </application>
