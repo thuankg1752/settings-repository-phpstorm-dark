@@ -2,7 +2,7 @@
 
 This repository contains color schemes for PhpStorm/IntelliJ IDEA. 
 
-You can change color correction, and interface similar to the Dark theme in WebStorm for high contrast and ease of use.
+You can change color correction, and interface similar to the Dark theme in PhpStorm for high contrast and ease of use.
 
 ## Requirements
 
