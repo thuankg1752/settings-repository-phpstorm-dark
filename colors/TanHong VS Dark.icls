@@ -1,10 +1,11 @@
-<scheme name="VSCode Dark" version="142" parent_scheme="Darcula">
+<scheme name="TanHong VS Dark" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2023-05-15T19:43:37</property>
+    <property name="created">2023-05-15T19:58:20</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2023.1.1.0.0</property>
-    <property name="modified">2023-05-15T19:43:47</property>
-    <property name="originalScheme">_@user_TanHong</property>
+    <property name="modified">2023-05-15T19:58:33</property>
+    <property name="originalScheme">VSCode Dark</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Consolas" />
   <option name="CONSOLE_LINE_SPACING" value="1.2" />
@@ -44,6 +45,8 @@
     <option name="IGNORED_ADDED_LINES_BORDER_COLOR" value="34d034" />
     <option name="IGNORED_DELETED_LINES_BORDER_COLOR" value="ff0202" />
     <option name="IGNORED_MODIFIED_LINES_BORDER_COLOR" value="8fff" />
+    <option name="INDENT_GUIDE" value="3b3b3b" />
+    <option name="LINE_NUMBERS_COLOR" value="848484" />
     <option name="LOOKUP_COLOR" value="282828" />
     <option name="MODIFIED_LINES_COLOR" value="1384de" />
     <option name="MT_FILESTATUS_ADDED" value="9af305" />
@@ -51,13 +54,11 @@
     <option name="MT_FILESTATUS_MODIFIED" value="e0c53e" />
     <option name="MT_FILESTATUS_addedOutside" value="7dff66" />
     <option name="MT_FILESTATUS_modifiedOutside" value="fff751" />
-    <option name="WHITESPACES" value="4f535f" />
-    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="3637ff" />
-    <option name="INDENT_GUIDE" value="3b3b3b" />
-    <option name="LINE_NUMBERS_COLOR" value="848484" />
     <option name="RIGHT_MARGIN_COLOR" value="3b3b3b" />
     <option name="SELECTION_BACKGROUND" value="264e77" />
     <option name="VISUAL_INDENT_GUIDE" value="3b3b3b" />
+    <option name="WHITESPACES" value="4f535f" />
+    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="3637ff" />
   </colors>
   <attributes>
     <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">
