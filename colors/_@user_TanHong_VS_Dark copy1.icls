@@ -1,10 +1,10 @@
-<scheme name="_@user_TanHong_VS_Dark" version="142" parent_scheme="Darcula">
+<scheme name="_@user_TanHong_VS_Dark copy1" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2023-05-15T20:00:12</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2023.1.1.0.0</property>
-    <property name="modified">2023-05-15T21:22:54</property>
+    <property name="modified">2023-05-15T21:24:08</property>
     <property name="originalScheme">_@user_TanHong</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Consolas" />
@@ -649,7 +649,17 @@
     </option>
     <option name="GO_LOCAL_FUNCTION_CALL">
       <value>
-        <option name="FOREGROUND" value="dcdcaa" />
+        <option name="FOREGROUND" value="75c2b3" />
+      </value>
+    </option>
+    <option name="GO_METHOD_RECEIVER">
+      <value>
+        <option name="FOREGROUND" value="daca77" />
+      </value>
+    </option>
+    <option name="GO_PACKAGE">
+      <value>
+        <option name="FOREGROUND" value="ffbf67" />
       </value>
     </option>
     <option name="GO_PACKAGE_EXPORTED_CONSTANT">
@@ -670,6 +680,11 @@
     <option name="GO_TAG_VALUE">
       <value>
         <option name="FOREGROUND" value="cd9069" />
+      </value>
+    </option>
+    <option name="GO_TYPE_REFERENCE">
+      <value>
+        <option name="FOREGROUND" value="49b0ce" />
       </value>
     </option>
     <option name="GO_VALID_STRING_ESCAPE">
@@ -707,6 +722,26 @@
         <option name="FOREGROUND" value="569cd6" />
       </value>
     </option>
+    <option name="HTTP_REQUEST_ENVIRONMENT_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="59fcf7" />
+      </value>
+    </option>
+    <option name="HTTP_REQUEST_PARAMETER_NAME">
+      <value>
+        <option name="FOREGROUND" value="bfff67" />
+      </value>
+    </option>
+    <option name="HTTP_REQUEST_VARIABLE_BRACES">
+      <value>
+        <option name="FOREGROUND" value="f3f362" />
+      </value>
+    </option>
+    <option name="HTT_TAG">
+      <value>
+        <option name="FOREGROUND" value="e0c5ff" />
+      </value>
+    </option>
     <option name="HYPERLINK_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="569cd6" />
@@ -729,7 +764,21 @@
       </value>
     </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="d49072" />
+      </value>
+    </option>
+    <option name="INLAY_DEFAULT">
+      <value>
+        <option name="FOREGROUND" value="787878" />
+        <option name="BACKGROUND" value="323333" />
+      </value>
+    </option>
+    <option name="INLINE_PARAMETER_HINT_CURRENT">
+      <value>
+        <option name="FOREGROUND" value="292a30" />
+        <option name="BACKGROUND" value="c4d3f1" />
+      </value>
     </option>
     <option name="INSTANCE_FIELD_ATTRIBUTES">
       <value>
@@ -793,11 +842,19 @@
     <option name="JS.LOCAL_VARIABLE">
       <value>
         <option name="FOREGROUND" value="9cdcfe" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="JS.MODULE_NAME">
+      <value>
+        <option name="FOREGROUND" value="d4d9aa" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="JS.PARAMETER">
       <value>
         <option name="FOREGROUND" value="9cdcfe" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="JS.SECONDARY_KEYWORDS">
@@ -815,6 +872,11 @@
       <value>
         <option name="FOREGROUND" value="ffc66d" />
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="JS.VALID_STRING_ESCAPE">
+      <value>
+        <option name="FOREGROUND" value="ffd65d" />
       </value>
     </option>
     <option name="KOTLIN_ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">
@@ -878,6 +940,29 @@
     <option name="KOTLIN_OBJECT">
       <value>
         <option name="FOREGROUND" value="4ec9b0" />
+      </value>
+    </option>
+    <option name="LOG_DEBUG_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="299999" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="LOG_ERROR_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="cc666e" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="LOG_WARNING_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="f3f3f3" />
+      </value>
+    </option>
+    <option name="MAGIC_MEMBER_ACCESS">
+      <value>
+        <option name="FOREGROUND" value="9cdcfe" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="MARKDOWN_AUTO_LINK">
@@ -1005,7 +1090,18 @@
       <value>
         <option name="BACKGROUND" value="585859" />
         <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="878787" />
+        <option name="EFFECT_COLOR" value="585859" />
+        <option name="ERROR_STRIPE_COLOR" value="585859" />
+      </value>
+    </option>
+    <option name="NG.SCRIPT_DELIMITERS">
+      <value>
+        <option name="FOREGROUND" value="3ac79d" />
+      </value>
+    </option>
+    <option name="NOT_USED_ELEMENT_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="8d8e95" />
       </value>
     </option>
     <option name="OC.CLASS_REFERENCE">
@@ -1100,23 +1196,79 @@
         <option name="FOREGROUND" value="4cc9b0" />
       </value>
     </option>
-    <option name="PHP_ALIAS_REFERENCE">
+    <option name="PERL_ARRAY">
       <value />
+    </option>
+    <option name="PERL_ARRAY_BUILTIN">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="PERL_HASH">
+      <value />
+    </option>
+    <option name="PERL_HASH_BUILTIN">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="PERL_SCALAR">
+      <value />
+    </option>
+    <option name="PERL_SCALAR_BUILTIN">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="PERL_SUB">
+      <value>
+        <option name="FOREGROUND" value="53b1ca" />
+      </value>
+    </option>
+    <option name="PERL_SUB_BUILTIN">
+      <value>
+        <option name="FOREGROUND" value="53b1ca" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="PERL_XSUB">
+      <value>
+        <option name="FOREGROUND" value="53b1ca" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="PHP_ALIAS_REFERENCE">
+      <value>
+        <option name="FOREGROUND" value="fcaca" />
+        <option name="FONT_TYPE" value="3" />
+      </value>
     </option>
     <option name="PHP_CLASS">
       <value>
-        <option name="FOREGROUND" value="4ec9b0" />
+        <option name="FOREGROUND" value="3bfc5c" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="PHP_CONSTANT">
       <value>
-        <option name="FOREGROUND" value="4fc1ff" />
+        <option name="FOREGROUND" value="ef57e1" />
         <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="PHP_ESCAPE_SEQUENCE">
+      <value>
+        <option name="FOREGROUND" value="ffeba0" />
       </value>
     </option>
     <option name="PHP_EXEC_COMMAND_ID">
       <value>
         <option name="FOREGROUND" value="cd905b" />
+      </value>
+    </option>
+    <option name="PHP_FUNCTION_CALL">
+      <value>
+        <option name="FOREGROUND" value="e7e7a9" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="PHP_HEREDOC_ID">
@@ -1126,7 +1278,8 @@
     </option>
     <option name="PHP_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="4ec9b0" />
+        <option name="FOREGROUND" value="e7e7a9" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="PHP_PARAMETER">
