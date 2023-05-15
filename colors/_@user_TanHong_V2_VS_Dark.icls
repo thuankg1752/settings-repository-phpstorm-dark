@@ -251,7 +251,7 @@
     </option>
     <option name="CSS.FUNCTION">
       <value>
-        <option name="FOREGROUND" value="dcdcaa" />
+        <option name="FOREGROUND" value="6da2d2" />
       </value>
     </option>
     <option name="CSS.IDENT">
@@ -318,6 +318,9 @@
         <option name="FOREGROUND" value="c586c0" />
         <option name="BACKGROUND" value="1e1e1e" />
       </value>
+    </option>
+    <option name="CodeWithMe.USER_1_SELECTION">
+      <value />
     </option>
     <option name="DEFAULT_ATTRIBUTE">
       <value>
@@ -414,7 +417,7 @@
     </option>
     <option name="DEFAULT_INTERFACE_NAME">
       <value>
-        <option name="FOREGROUND" value="37ff58" />
+        <option name="FOREGROUND" value="9cdcfe" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -601,7 +604,7 @@
     </option>
     <option name="GO_BUILTIN_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="569cd6" />
+        <option name="FOREGROUND" value="b37eee" />
       </value>
     </option>
     <option name="GO_COMMENT_KEYWORD">
@@ -1289,9 +1292,16 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="PHP_INTERFACE">
+      <value>
+        <option name="FOREGROUND" value="4c62e" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="PHP_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="94dbfd" />
+        <option name="FOREGROUND" value="9cdcfe" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="PHP_PROTECTED_INSTANCE_METHOD">
@@ -1590,7 +1600,7 @@
     </option>
     <option name="XML_TAG">
       <value>
-        <option name="FOREGROUND" value="d4d4d4" />
+        <option name="FOREGROUND" value="dfdfe0" />
         <option name="BACKGROUND" value="1e1e1e" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
