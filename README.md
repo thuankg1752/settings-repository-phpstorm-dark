@@ -29,3 +29,17 @@ https://github.com/tanhongit/settings-repository-phpstorm-dark
 Now you can see the color scheme of PhpStorm/IntelliJ IDEA has changed.
 
 > **_Note_: Please restart PhpStorm/IntelliJ IDEA after installation to take all changes.**
+
+---
+
+## Plugins
+- https://plugins.jetbrains.com/plugin/7566-settings-repository
+- https://plugins.jetbrains.com/plugin/19177-vscode-theme
+- https://plugins.jetbrains.com/plugin/9525--env-files-support
+- https://plugins.jetbrains.com/plugin/10044-atom-material-icons
+- https://plugins.jetbrains.com/plugin/18824-codeglance-pro
+- https://plugins.jetbrains.com/plugin/17718-github-copilot
+- https://plugins.jetbrains.com/plugin/7499-gittoolbox
+- https://plugins.jetbrains.com/plugin/13441-laravel-idea
+- https://plugins.jetbrains.com/plugin/14957-laravel-tinker
+- https://plugins.jetbrains.com/plugin/7017-plantuml-integration
