@@ -2,7 +2,9 @@
   <component name="AdvancedSettings">
     <option name="settings">
       <map>
+        <entry key="ide.show.fileType.icon.in.titleBar" value="true" />
         <entry key="show.diff.as.editor.tab" value="false" />
+        <entry key="terminal.show.application.title" value="true" />
       </map>
     </option>
   </component>
