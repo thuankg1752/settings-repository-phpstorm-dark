@@ -3,7 +3,7 @@
     <property name="created">2023-05-13T15:21:19</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2023.1.1.0.0</property>
-    <property name="modified">2023-05-17T22:42:07</property>
+    <property name="modified">2023-05-17T23:05:42</property>
     <property name="originalScheme">Dark</property>
   </metaInfo>
   <colors>
@@ -25,7 +25,7 @@
     <option name="FILESTATUS_IDEA_SVN_REPLACED" value="629755" />
     <option name="FILESTATUS_MODIFIED" value="6dbbe5" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="42a3ff" />
-    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="7bb4de" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="6cbfff" />
     <option name="FILESTATUS_OBSOLETE" value="ffcb6b" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="2b2d30" />
     <option name="IGNORED_ADDED_LINES_BORDER_COLOR" value="549159" />
