@@ -4,7 +4,7 @@
     <property name="created">2023-05-15T22:00:42</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2023.1.1.0.0</property>
-    <property name="modified">2023-05-15T23:02:25</property>
+    <property name="modified">2023-05-18T16:05:35</property>
     <property name="originalScheme">_@user_TanHong_VS_Dark</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Consolas" />
@@ -1616,7 +1616,7 @@
     <option name="XPATH.XPATH_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="YAML_SCALAR_LIST">
       <value>
-        <option name="FOREGROUND" value="4aff00" />
+        <option name="FOREGROUND" value="39c4ad" />
         <option name="BACKGROUND" value="1a1a1a" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
