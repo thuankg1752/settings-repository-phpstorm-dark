@@ -4,7 +4,7 @@
     <property name="created">2023-05-15T22:00:42</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2023.1.1.0.0</property>
-    <property name="modified">2023-05-18T16:33:47</property>
+    <property name="modified">2023-05-19T01:00:04</property>
     <property name="originalScheme">_@user_TanHong_VS_Dark</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Consolas" />
@@ -254,6 +254,11 @@
         <option name="FOREGROUND" value="6da2d2" />
       </value>
     </option>
+    <option name="CSS.HASH">
+      <value>
+        <option name="FOREGROUND" value="569cd6" />
+      </value>
+    </option>
     <option name="CSS.IDENT">
       <value>
         <option name="FOREGROUND" value="d4d4d4" />
@@ -269,6 +274,11 @@
       <value>
         <option name="FOREGROUND" value="ffa245" />
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="CSS.PARENTHESES">
+      <value>
+        <option name="FOREGROUND" value="86ff" />
       </value>
     </option>
     <option name="CSS.PSEUDO">
@@ -1009,32 +1019,32 @@
     </option>
     <option name="MARKDOWN_HEADER_LEVEL_1">
       <value>
-        <option name="FOREGROUND" value="4a9dd4" />
+        <option name="FOREGROUND" value="7be052" />
       </value>
     </option>
     <option name="MARKDOWN_HEADER_LEVEL_2">
       <value>
-        <option name="FOREGROUND" value="569cd6" />
+        <option name="FOREGROUND" value="7be052" />
       </value>
     </option>
     <option name="MARKDOWN_HEADER_LEVEL_3">
       <value>
-        <option name="FOREGROUND" value="569cd6" />
+        <option name="FOREGROUND" value="74cb54" />
       </value>
     </option>
     <option name="MARKDOWN_HEADER_LEVEL_4">
       <value>
-        <option name="FOREGROUND" value="569cd6" />
+        <option name="FOREGROUND" value="6eb652" />
       </value>
     </option>
     <option name="MARKDOWN_HEADER_LEVEL_5">
       <value>
-        <option name="FOREGROUND" value="4a9dd4" />
+        <option name="FOREGROUND" value="679a4f" />
       </value>
     </option>
     <option name="MARKDOWN_HEADER_LEVEL_6">
       <value>
-        <option name="FOREGROUND" value="569cd6" />
+        <option name="FOREGROUND" value="4b7739" />
       </value>
     </option>
     <option name="MARKDOWN_HRULE">
@@ -1056,13 +1066,16 @@
     </option>
     <option name="MARKDOWN_LINK_DESTINATION">
       <value>
+        <option name="FOREGROUND" value="dcdcaa" />
+        <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="d4d4d4" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="MARKDOWN_LINK_TEXT">
       <value>
-        <option name="FOREGROUND" value="ce9178" />
+        <option name="FOREGROUND" value="4471ff" />
+        <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -1454,7 +1467,8 @@
     </option>
     <option name="SQL_TABLE">
       <value>
-        <option name="FOREGROUND" value="d3d3c8" />
+        <option name="FOREGROUND" value="54ff57" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="SQUARE_BRACKETS_RAINBOW_COLOR1">
@@ -1609,6 +1623,7 @@
     </option>
     <option name="XML_TAG_DATA">
       <value>
+        <option name="FOREGROUND" value="ca896e" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
