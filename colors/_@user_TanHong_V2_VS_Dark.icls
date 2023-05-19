@@ -4,7 +4,7 @@
     <property name="created">2023-05-15T22:00:42</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2023.1.1.0.0</property>
-    <property name="modified">2023-05-19T01:00:04</property>
+    <property name="modified">2023-05-19T22:30:07</property>
     <property name="originalScheme">_@user_TanHong_VS_Dark</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Consolas" />
@@ -893,6 +893,11 @@
     <option name="JS.VALID_STRING_ESCAPE">
       <value>
         <option name="FOREGROUND" value="ffd65d" />
+      </value>
+    </option>
+    <option name="JavaScript:INJECTED_LANGUAGE_FRAGMENT">
+      <value>
+        <option name="FOREGROUND" value="ca896e" />
       </value>
     </option>
     <option name="KOTLIN_ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">
