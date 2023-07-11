@@ -15,9 +15,10 @@
   <component name="StatusBar">
     <option name="widgets">
       <map>
+        <entry key="FlowJSInfo" value="false" />
         <entry key="Memory" value="true" />
-        <entry key="com.github.copilot" value="false" />
         <entry key="git" value="true" />
+        <entry key="webDeployment.default.server.widget" value="false" />
       </map>
     </option>
   </component>

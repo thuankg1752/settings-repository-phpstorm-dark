@@ -1,17 +1,14 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping ext="puml" type="AUTO_DETECTED" />
+      <mapping pattern=".env-dev" type=".env file" />
+      <mapping pattern="notifications" type="AUTO_DETECTED" />
       <mapping ext="ogg" type="AUTO_DETECTED" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="bk" type="PLAIN_TEXT" />
       <mapping ext="plantuml" type="PlantUML file" />
-      <removed_mapping ext="bash" approved="true" type="Shell Script" />
-      <removed_mapping ext="puml" approved="true" type="PlantUML file" />
-      <removed_mapping ext="sh" approved="true" type="Shell Script" />
-      <removed_mapping ext="zsh" approved="true" type="Shell Script" />
-      <removed_mapping pattern=".env" approved="true" type=".env file" />
+      <removed_mapping ext="puml" approved="true" type="AUTO_DETECTED" />
     </extensionMap>
   </component>
 </application>
