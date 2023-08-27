@@ -25,6 +25,12 @@ You can change color correction, and interface similar to the Dark theme in PhpS
 - https://plugins.jetbrains.com/plugin/14957-laravel-tinker
 - https://plugins.jetbrains.com/plugin/7017-plantuml-integration
 
+### Enable New UI
+
+Open PhpStorm/IntelliJ IDEA, press `Ctrl + Alt + S` to open the settings window, and select `Appearance & Behavior` -> `New UI` -> Click to `Enable new UI`.
+
+![image](https://github.com/tanhongit/settings-repository-phpstorm-dark/assets/35853002/cd6d0e06-5b7e-48e9-a1dd-cb73ae62c710)
+
 ---
 
 After installing all requirement plugins, please follow these steps:
