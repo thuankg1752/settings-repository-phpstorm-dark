@@ -1,4 +1,7 @@
 <application>
+  <component name="WindowManager">
+    <frame x="276" y="27" width="1400" height="952" extendedState="6" />
+  </component>
   <component name="WindowStateApplicationService">
     <state x="1060" y="547" width="1000" height="813" key="WELCOME_SCREEN" timestamp="1693246841030">
       <screen x="0" y="27" width="1920" height="992" />
