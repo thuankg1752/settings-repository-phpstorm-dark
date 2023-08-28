@@ -1,6 +1,19 @@
 <application>
+  <component name="EventLogWhitelist">
+    <update recorder-id="FUS" last-modified="1693168031000" />
+    <options recorder-id="FUS">
+      <option name="id_salt" value="" />
+      <option name="groupAlertThreshold" value="6000" />
+      <option name="dataThreshold" value="15000" />
+      <option name="groupDataThreshold" value="10000" />
+      <option name="id_salt_revision" value="0" />
+    </options>
+  </component>
   <component name="JSRemoteModulesRegistry">
     <modules />
+  </component>
+  <component name="PhpLanguageFeatureUsagesStatistics">
+    <project hash="a72815cd" />
   </component>
   <component name="PluginAdvertiserExtensions">{
   &quot;plugins&quot;: {
@@ -19477,7 +19490,8 @@
           }
         ]
       }
-    }
+    },
+    "lastUpdateTime": 1693247234930
   },
   "dependencies": {
     "featureMap": {
@@ -21212,6 +21226,314 @@
       }
     },
     "com.intellij.facetType": {
+    },
+    "com.intellij.configurationType": {
+      "featureMap": {
+        "CompoundRunConfigurationType": {
+          "displayName": "Compound",
+          "pluginData": {
+            "pluginIdString": "com.intellij",
+            "nullablePluginName": "IDEA CORE",
+            "isBundled": true
+          }
+        },
+        "ShConfigurationType": {
+          "displayName": "Shell Script",
+          "pluginData": {
+            "pluginIdString": "com.jetbrains.sh",
+            "nullablePluginName": "Shell Script",
+            "isBundled": true
+          }
+        },
+        "MAKEFILE_TARGET_RUN_CONFIGURATION": {
+          "displayName": "Makefile Target",
+          "pluginData": {
+            "pluginIdString": "name.kropp.intellij.makefile",
+            "nullablePluginName": "Makefile Language",
+            "isBundled": true
+          }
+        },
+        "HttpClient.HttpRequestRunConfigurationType": {
+          "displayName": "HTTP Request",
+          "pluginData": {
+            "pluginIdString": "com.jetbrains.restClient",
+            "nullablePluginName": "HTTP Client",
+            "isBundled": true
+          }
+        },
+        "SwaggerCodegen": {
+          "displayName": "OpenAPI/Swagger Code Generator",
+          "pluginData": {
+            "pluginIdString": "com.intellij.swagger",
+            "nullablePluginName": "OpenAPI Specifications",
+            "isBundled": true
+          }
+        },
+        "XSLT": {
+          "displayName": "XSLT",
+          "pluginData": {
+            "pluginIdString": "XPathView",
+            "nullablePluginName": "XPathView + XSLT",
+            "isBundled": true
+          }
+        },
+        "JavaScriptTestRunnerJest": {
+          "displayName": "Jest",
+          "pluginData": {
+            "pluginIdString": "JavaScript",
+            "nullablePluginName": "JavaScript and TypeScript",
+            "isBundled": true
+          }
+        },
+        "JavaScriptTestRunnerVitest": {
+          "displayName": "Vitest",
+          "pluginData": {
+            "pluginIdString": "JavaScript",
+            "nullablePluginName": "JavaScript and TypeScript",
+            "isBundled": true
+          }
+        },
+        "JavaScriptTestRunnerProtractor": {
+          "displayName": "Protractor",
+          "pluginData": {
+            "pluginIdString": "JavaScript",
+            "nullablePluginName": "JavaScript and TypeScript",
+            "isBundled": true
+          }
+        },
+        "js.build_tools.grunt": {
+          "displayName": "Grunt.js",
+          "pluginData": {
+            "pluginIdString": "JavaScript",
+            "nullablePluginName": "JavaScript and TypeScript",
+            "isBundled": true
+          }
+        },
+        "js.build_tools.gulp": {
+          "displayName": "Gulp.js",
+          "pluginData": {
+            "pluginIdString": "JavaScript",
+            "nullablePluginName": "JavaScript and TypeScript",
+            "isBundled": true
+          }
+        },
+        "js.build_tools.npm": {
+          "displayName": "npm",
+          "pluginData": {
+            "pluginIdString": "JavaScript",
+            "nullablePluginName": "JavaScript and TypeScript",
+            "isBundled": true
+          }
+        },
+        "NodeWebKit": {
+          "displayName": "NW.js",
+          "pluginData": {
+            "pluginIdString": "JavaScriptDebugger",
+            "nullablePluginName": "JavaScript Debugger",
+            "isBundled": true
+          }
+        },
+        "ChromiumRemoteDebugType": {
+          "displayName": "Attach to Node.js/Chrome",
+          "pluginData": {
+            "pluginIdString": "JavaScriptDebugger",
+            "nullablePluginName": "JavaScript Debugger",
+            "isBundled": true
+          }
+        },
+        "FirefoxRemoteDebugType": {
+          "displayName": "Firefox Remote",
+          "pluginData": {
+            "pluginIdString": "JavaScriptDebugger",
+            "nullablePluginName": "JavaScript Debugger",
+            "isBundled": true
+          }
+        },
+        "ReactNative": {
+          "displayName": "React Native",
+          "pluginData": {
+            "pluginIdString": "JavaScriptDebugger",
+            "nullablePluginName": "JavaScript Debugger",
+            "isBundled": true
+          }
+        },
+        "JavascriptDebugType": {
+          "displayName": "JavaScript Debug",
+          "pluginData": {
+            "pluginIdString": "JavaScriptDebugger",
+            "nullablePluginName": "JavaScript Debugger",
+            "isBundled": true
+          }
+        },
+        "PhpLocalRunConfigurationType": {
+          "displayName": "PHP Script",
+          "pluginData": {
+            "pluginIdString": "com.jetbrains.php",
+            "nullablePluginName": "PHP",
+            "isBundled": true
+          }
+        },
+        "PHPUnitRunConfigurationType": {
+          "displayName": "PHPUnit",
+          "pluginData": {
+            "pluginIdString": "com.jetbrains.php",
+            "nullablePluginName": "PHP",
+            "isBundled": true
+          }
+        },
+        "PhpWebAppRunConfigurationType": {
+          "displayName": "PHP Web Page",
+          "pluginData": {
+            "pluginIdString": "com.jetbrains.php",
+            "nullablePluginName": "PHP",
+            "isBundled": true
+          }
+        },
+        "PhpHttpRequestRunConfigurationType": {
+          "displayName": "PHP HTTP Request",
+          "pluginData": {
+            "pluginIdString": "com.jetbrains.php",
+            "nullablePluginName": "PHP",
+            "isBundled": true
+          }
+        },
+        "PhpRemoteDebugRunConfigurationType": {
+          "displayName": "PHP Remote Debug",
+          "pluginData": {
+            "pluginIdString": "com.jetbrains.php",
+            "nullablePluginName": "PHP",
+            "isBundled": true
+          }
+        },
+        "PhpBuiltInWebServerConfigurationType": {
+          "displayName": "PHP Built-in Web Server",
+          "pluginData": {
+            "pluginIdString": "com.jetbrains.php",
+            "nullablePluginName": "PHP",
+            "isBundled": true
+          }
+        },
+        "RoboRunConfigurationType": {
+          "displayName": "Robo",
+          "pluginData": {
+            "pluginIdString": "com.jetbrains.php",
+            "nullablePluginName": "PHP",
+            "isBundled": true
+          }
+        },
+        "ComposerRunConfigurationType": {
+          "displayName": "Composer Script",
+          "pluginData": {
+            "pluginIdString": "com.jetbrains.php",
+            "nullablePluginName": "PHP",
+            "isBundled": true
+          }
+        },
+        "PhpBehatConfigurationType": {
+          "displayName": "Behat",
+          "pluginData": {
+            "pluginIdString": "com.jetbrains.php.behat",
+            "nullablePluginName": "Behat Support",
+            "isBundled": true
+          }
+        },
+        "PhpSpecConfigurationType": {
+          "displayName": "PHPSpec",
+          "pluginData": {
+            "pluginIdString": "com.jetbrains.php.phpspec",
+            "nullablePluginName": "PHPSpec BDD Framework",
+            "isBundled": true
+          }
+        },
+        "CodeceptionConfigurationType": {
+          "displayName": "Codeception",
+          "pluginData": {
+            "pluginIdString": "com.jetbrains.php.codeception",
+            "nullablePluginName": "Codeception Framework",
+            "isBundled": true
+          }
+        },
+        "RectorRunConfigurationType": {
+          "displayName": "Rector",
+          "pluginData": {
+            "pluginIdString": "com.jetbrains.php.rector",
+            "nullablePluginName": "Rector Support",
+            "isBundled": true
+          }
+        },
+        "DatabaseScript": {
+          "displayName": "Database Script",
+          "pluginData": {
+            "pluginIdString": "com.intellij.database",
+            "nullablePluginName": "Database Tools and SQL",
+            "isBundled": true
+          }
+        },
+        "TSqltConfigurationType": {
+          "displayName": "tSQLt Test",
+          "pluginData": {
+            "pluginIdString": "com.intellij.database",
+            "nullablePluginName": "Database Tools and SQL",
+            "isBundled": true
+          }
+        },
+        "UtPlSqlConfigurationType": {
+          "displayName": "utPLSQL Test",
+          "pluginData": {
+            "pluginIdString": "com.intellij.database",
+            "nullablePluginName": "Database Tools and SQL",
+            "isBundled": true
+          }
+        },
+        "cucumber.js": {
+          "displayName": "Cucumber.js",
+          "pluginData": {
+            "pluginIdString": "cucumber-javascript",
+            "nullablePluginName": "Cucumber.js",
+            "isBundled": true
+          }
+        },
+        "NodeJSConfigurationType": {
+          "displayName": "Node.js",
+          "pluginData": {
+            "pluginIdString": "NodeJS",
+            "nullablePluginName": "Node.js",
+            "isBundled": true
+          }
+        },
+        "NodeunitConfigurationType": {
+          "displayName": "Nodeunit",
+          "pluginData": {
+            "pluginIdString": "NodeJS",
+            "nullablePluginName": "Node.js",
+            "isBundled": true
+          }
+        },
+        "mocha-javascript-test-runner": {
+          "displayName": "Mocha",
+          "pluginData": {
+            "pluginIdString": "NodeJS",
+            "nullablePluginName": "Node.js",
+            "isBundled": true
+          }
+        },
+        "JavaScriptTestRunnerKarma": {
+          "displayName": "Karma",
+          "pluginData": {
+            "pluginIdString": "Karma",
+            "nullablePluginName": "Karma",
+            "isBundled": true
+          }
+        },
+        "docker-deploy": {
+          "displayName": "Docker",
+          "pluginData": {
+            "pluginIdString": "com.intellij",
+            "nullablePluginName": "IDEA CORE",
+            "isBundled": true
+          }
+        }
+      }
     }
   }
 }]]></component>
