@@ -2,7 +2,9 @@
   <component name="Trusted.Paths">
     <option name="TRUSTED_PROJECT_PATHS">
       <map>
+        <entry key="$USER_HOME$/Data/tcom/Rentalcube4" value="true" />
         <entry key="$USER_HOME$/Data/tcom/takehisa_laravel_vue3_vite" value="true" />
+        <entry key="$USER_HOME$/Data/tcom/telegram-bot-github-notify" value="true" />
       </map>
     </option>
   </component>
