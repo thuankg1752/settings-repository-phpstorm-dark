@@ -4,22 +4,54 @@
       <map>
         <entry key="$USER_HOME$/Data/tcom/takehisa_laravel_vue3_vite">
           <value>
-            <RecentProjectMetaInfo frameTitle="takehisa_laravel_vue3_vite – purchase.php" opened="true" projectWorkspaceId="2UJvydPk3UF3DAGD5WlZA26f3jD">
-              <option name="activationTimestamp" value="1693247905929" />
+            <RecentProjectMetaInfo frameTitle="takehisa_laravel_vue3_vite – laravel-telegram-git-notify/composer.json" projectWorkspaceId="2UJvydPk3UF3DAGD5WlZA26f3jD">
+              <option name="activationTimestamp" value="1693248427917" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="PS-232.9559.64" />
               <option name="buildTimestamp" value="1692986635507" />
               <option name="colorInfo">
                 <RecentProjectColorInfo associatedIndex="7" />
               </option>
-              <frame x="276" y="27" width="1400" height="952" extendedState="6" />
+              <frame x="0" y="27" width="1920" height="992" extendedState="6" />
               <option name="productionCode" value="PS" />
               <option name="projectOpenTimestamp" value="1693246873402" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="$USER_HOME$/Data/tcom/telegram-bot-github-notify">
+          <value>
+            <RecentProjectMetaInfo frameTitle="telegram-bot-github-notify – .gitignore" opened="true" projectWorkspaceId="2Ub9NpcdQK9Pyz76w47VnyeTzux">
+              <option name="activationTimestamp" value="1693248120701" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PS-232.9559.64" />
+              <option name="buildTimestamp" value="1692986632023" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="1" />
+              </option>
+              <frame x="260" y="47" width="1400" height="952" extendedState="7" />
+              <option name="productionCode" value="PS" />
+              <option name="projectOpenTimestamp" value="1693247956895" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Data/tcom/Rentalcube4">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Rentalcube4 – YoutoSearchType.php" opened="true" projectWorkspaceId="2QdSJsllUjmpgbvtyNP8Pc2MUbO">
+              <option name="activationTimestamp" value="1693273664038" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PS-232.9559.64" />
+              <option name="buildTimestamp" value="1692986632023" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="1" />
+              </option>
+              <frame x="1893" y="0" width="1400" height="952" extendedState="6" />
+              <option name="productionCode" value="PS" />
+              <option name="projectOpenTimestamp" value="1693248430602" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="$USER_HOME$/Data/tcom/takehisa_laravel_vue3_vite" />
+    <option name="lastOpenedProject" value="$USER_HOME$/Data/tcom/Rentalcube4" />
   </component>
 </application>
