@@ -59,3 +59,8 @@ And then, please enable this checkbox in Version control:
 
 ---
 
+## Demo
+
+![image](https://github.com/tanhongit/settings-repository-phpstorm-dark/assets/35853002/38c59edb-ad2d-4d04-bab2-feafbd4475b1)
+![image](https://github.com/tanhongit/settings-repository-phpstorm-dark/assets/35853002/265541e2-32cd-4bc5-ac40-98d2ad1e9b94)
+
