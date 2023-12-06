@@ -1,0 +1,60 @@
+<application>
+  <component name="CodeVisionSettings">
+    <option name="disabledCodeVisionProviderIds">
+      <set>
+        <option value="vcs.code.vision" />
+      </set>
+    </option>
+  </component>
+  <component name="DaemonCodeAnalyzerSettings">
+    <option name="AUTOREPARSE_DELAY" value="0" />
+    <option name="NEXT_ERROR_ACTION_GOES_TO_ERRORS_FIRST" value="false" />
+  </component>
+  <component name="DeclarativeInlayHintsSettings">
+    <option name="providerIdToEnabled">
+      <map>
+        <entry key="js.chain.hints" value="true" />
+        <entry key="js.type.hints" value="true" />
+        <entry key="qodana.yaml.inspection.descriptions" value="true" />
+        <entry key="ts.chain.hints" value="true" />
+        <entry key="ts.enum.hints" value="true" />
+        <entry key="ts.type.hints" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="EditorSettings">
+    <option name="languageBreadcrumbsMap">
+      <map>
+        <entry key="CSS" value="true" />
+        <entry key="HTML" value="true" />
+        <entry key="Haml" value="true" />
+        <entry key="JSON" value="true" />
+        <entry key="JavaScript" value="true" />
+        <entry key="LESS" value="true" />
+        <entry key="Markdown" value="true" />
+        <entry key="PHP" value="true" />
+        <entry key="SASS" value="true" />
+        <entry key="SCSS" value="true" />
+        <entry key="SQL" value="false" />
+        <entry key="TypeScript" value="true" />
+        <entry key="XHTML" value="true" />
+        <entry key="XML" value="true" />
+        <entry key="yaml" value="true" />
+      </map>
+    </option>
+    <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:CONSOLE" />
+    <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
+    <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
+    <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
+  </component>
+  <component name="InlayHintsSettings">
+    <option name="lastViewedProviderKeyId" value="Vue.parameter.hints.old.vuejs.show.names.for.all.args" />
+  </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\btodo\b.*" />
+    <pattern pattern="\bfixme\b.*" />
+  </component>
+  <component name="XmlEditorOptions">
+    <option name="tagTreeHighlightingOpacity" value="15" />
+  </component>
+</application>
