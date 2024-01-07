@@ -16,6 +16,7 @@
     <option name="widgets">
       <map>
         <entry key="JSONSchemaSelector" value="false" />
+        <entry key="Memory" value="true" />
         <entry key="git" value="true" />
         <entry key="webDeployment.default.server.widget" value="false" />
       </map>
