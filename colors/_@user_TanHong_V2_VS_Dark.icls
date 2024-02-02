@@ -4,7 +4,7 @@
     <property name="created">2023-05-15T22:00:42</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2023.1.1.0.0</property>
-    <property name="modified">2024-02-02T11:03:42</property>
+    <property name="modified">2024-02-02T12:02:00</property>
     <property name="originalScheme">_@user_TanHong_VS_Dark</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Consolas" />
@@ -261,6 +261,12 @@
     <option name="CSS.BRACES">
       <value>
         <option name="FOREGROUND" value="f0d107" />
+      </value>
+    </option>
+    <option name="CSS.BRACKETS">
+      <value>
+        <option name="FOREGROUND" value="ffff03" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="CSS.CLASS_NAME">
@@ -577,6 +583,12 @@
       <value>
         <option name="BACKGROUND" value="345a32" />
         <option name="ERROR_STRIPE_COLOR" value="447152" />
+      </value>
+    </option>
+    <option name="DOCKER_BRACKETS">
+      <value>
+        <option name="FOREGROUND" value="ffff03" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DOCKER_VARIABLE">
