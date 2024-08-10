@@ -6,8 +6,8 @@
       <mapping ext="ogg" type="AUTO_DETECTED" />
       <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping ext="bk" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
+      <mapping ext="bk" type="PLAIN_TEXT" />
       <mapping ext="plantuml" type="PlantUML file" />
       <removed_mapping ext="es" approved="true" type="ActionScript" />
       <removed_mapping ext="pdf" approved="true" type="Native" />
