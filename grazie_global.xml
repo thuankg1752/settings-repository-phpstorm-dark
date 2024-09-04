@@ -4,10 +4,10 @@
       <SuppressingContext>
         <option name="suppressed">
           <set>
-            <option value="Th|4) Choose events would you like to trigger in this webhook." />
-            <option value="yo|That it." />
-            <option value="pref|wip: update slug for all pref" />
             <option value=")" />
+            <option value="Th|4) Choose events would you like to trigger in this webhook." />
+            <option value="pref|wip: update slug for all pref" />
+            <option value="yo|That it." />
           </set>
         </option>
       </SuppressingContext>
