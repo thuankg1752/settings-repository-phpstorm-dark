@@ -7,5 +7,6 @@
     <option name="SEARCH_SCOPE" value="Changes" />
     <mask>*.php</mask>
     <mask>*.js</mask>
+    <mask>*.blade.php</mask>
   </component>
 </application>
