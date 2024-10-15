@@ -5,9 +5,9 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Changes" />
-    <mask>*.js</mask>
     <mask>*.php</mask>
     <mask>*.blade.php</mask>
     <mask>*.vue</mask>
+    <mask>*.js</mask>
   </component>
 </application>
