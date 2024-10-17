@@ -7,7 +7,7 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.blade.php</mask>
     <mask>*.vue</mask>
-    <mask>*.js</mask>
     <mask>*.php</mask>
+    <mask>*.js</mask>
   </component>
 </application>
