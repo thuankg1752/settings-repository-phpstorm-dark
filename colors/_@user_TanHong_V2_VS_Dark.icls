@@ -7,8 +7,11 @@
     <property name="modified">2024-02-02T12:02:00</property>
     <property name="originalScheme">_@user_TanHong_VS_Dark</property>
   </metaInfo>
+  <option name="LINE_SPACING" value="1.2" />
+  <option name="EDITOR_FONT_SIZE" value="13" />
+  <option name="EDITOR_FONT_NAME" value="Inter Regular" />
   <option name="CONSOLE_FONT_NAME" value="Consolas" />
-  <option name="CONSOLE_LINE_SPACING" value="1.2" />
+  <option name="CONSOLE_FONT_SIZE" value="20" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="26cd26" />
     <option name="CARET_COLOR" value="adaeac" />
