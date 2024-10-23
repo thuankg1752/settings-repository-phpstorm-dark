@@ -9,5 +9,6 @@
     <mask>*.php</mask>
     <mask>*.js</mask>
     <mask>*.vue</mask>
+    <mask>*.css</mask>
   </component>
 </application>
