@@ -1,6 +1,8 @@
 <application>
   <component name="UISettings">
     <option name="EDITOR_TAB_LIMIT" value="20" />
+    <option name="MAX_LOOKUP_LIST_HEIGHT" value="12" />
+    <option name="MAX_LOOKUP_WIDTH2" value="946" />
     <option name="OPEN_IN_PREVIEW_TAB_IF_POSSIBLE" value="true" />
     <option name="PRESENTATION_MODE_FONT_SIZE" value="16" />
     <option name="REMEMBER_SIZE_FOR_EACH_TOOL_WINDOW_NEW_UI" value="true" />
