@@ -11,7 +11,6 @@
     <entry key="ide.editor.tab.selection.animation" value="true" source="SYSTEM" />
     <entry key="ide.balloon.shadow.size" value="0" source="SYSTEM" />
     <entry key="debugger.new.tool.window.layout" value="true" source="SYSTEM" />
-    <entry key="terminal.new.ui" value="true" source="SYSTEM" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
