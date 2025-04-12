@@ -51,6 +51,9 @@
   <component name="InlayHintsSettings">
     <option name="lastViewedProviderKeyId" value="Vue.parameter.hints.old.vuejs.show.names.for.all.args" />
   </component>
+  <component name="InlineCompletionOnboarding">
+    <option name="onboardingFinished" value="true" />
+  </component>
   <component name="XmlEditorOptions">
     <option name="tagTreeHighlightingOpacity" value="15" />
   </component>
